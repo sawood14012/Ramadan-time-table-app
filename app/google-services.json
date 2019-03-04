@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "983338048266",
+    "firebase_url": "https://ramadan-timetable-43bb5.firebaseio.com",
+    "project_id": "ramadan-timetable-43bb5",
+    "storage_bucket": "ramadan-timetable-43bb5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983338048266:android:12380bc0b37674b0",
+        "android_client_info": {
+          "package_name": "com.example.sawood.cardvie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "983338048266-i48vjb999a5mhmffrljb3sdpkv623dni.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sawood.cardvie",
+            "certificate_hash": "2b638a258f9dfca701678df39a0d3c84d082eee1"
+          }
+        },
+        {
+          "client_id": "983338048266-fbgih39dbpa5cahc0rei5uehe72kse36.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOui9T4Q6rm1CPIbnv54lQNL0KfsQVRg4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "983338048266-fbgih39dbpa5cahc0rei5uehe72kse36.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

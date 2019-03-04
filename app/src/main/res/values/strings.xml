@@ -1,0 +1,212 @@
+<resources>
+    <string name="app_name">Ramadan\'18</string>
+    <string name="todaydet">Sehri:00:00am Iftar:00:00pm</string>
+    <string name="login_str"><u>Already Registered Click Here..!</u></string>
+    <string name="not_str"><u>Not Registered Yet Click Here.!"</u></string>
+    <string name="forgotpass"><u>Forgot Password?</u></string>
+    <string name="appbuild">Ramadan \'18 app Build Version: 1.0</string>
+    <string name="devinfo">The developers of this app are Meer Sawood and Ameen Farooqi,while Sawood is a student of MSRIT Pursuing Bachelor of Engineering in Computer Science and Ameen is Pursuing the Same in Ghousia College Of Engineering they both have interest in Machine Learning ,Developing Mobile Apps ,Artificial intelligence ,helping community by building better apps.</string>
+    <string name="insta">Wanna Connect With Us: we are on instagram as:</string>
+    <string name="ameeninsta"><a href='https://www.instagram.com/ameenfarooqi/'>@ameenfarooqi</a></string>
+    <string name="meeer"><a href='https://www.instagram.com/sawoodrocks/'>@sawoodrocks</a></string>
+
+
+    <string-array name="texttit">
+        <item></item>
+        <item>meer</item>
+        <item>meer</item>
+        <item>meer</item>
+        <item>meer</item>
+        <item>meer</item>
+        <item>meer</item>
+        <item>meer</item>
+        <item>meer</item>
+        <item>meer</item>
+
+    </string-array>
+
+    <string-array name="dateseng">
+
+        <item>17/May/2018</item>
+        <item>18/May/2018</item>
+        <item>19/May/2018</item>
+        <item>20/May/2018</item>
+        <item>21/May/2018</item>
+        <item>22/May/2018</item>
+        <item>23/May/2018</item>
+        <item>24/May/2018</item>
+        <item>25/May/2018</item>
+        <item>26/May/2018</item>
+        <item>27/May/2018</item>
+        <item>28/May/2018</item>
+        <item>29/May/2018</item>
+        <item>30/May/2018</item>
+        <item>31/May/2018</item>
+        <item>01/Jun/2018</item>
+        <item>02/Jun/2018</item>
+        <item>03/Jun/2018</item>
+        <item>04/Jun/2018</item>
+        <item>05/Jun/2018</item>
+        <item>06/Jun/2018</item>
+        <item>07/Jun/2018</item>
+        <item>08/Jun/2018</item>
+        <item>09/Jun/2018</item>
+        <item>10/Jun/2018</item>
+        <item>11/Jun/2018</item>
+        <item>12/Jun/2018</item>
+        <item>13/Jun/2018</item>
+        <item>14/Jun/2018</item>
+        <item>15/Jun/2018</item>
+
+    </string-array>
+
+    <string-array name="days">
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday </item>
+        <item>Sunday </item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+
+
+    </string-array>
+
+    <string-array name="sehr">
+
+
+        <item>4:33am</item>
+        <item>4:33am</item>
+        <item>4:33am</item>
+        <item>4:32am</item>
+        <item>4:32am</item>
+        <item>4:31am</item>
+        <item>4:31am</item>
+        <item>4:31am</item>
+        <item>4:31am</item>
+        <item>4:31am</item>
+        <item>4:31am</item>
+        <item>4:31am</item>
+        <item>4:30am</item>
+        <item>4:30am</item>
+        <item>4:30am</item>
+        <item>4:30am</item>
+        <item>4:30am</item>
+        <item>4:29am</item>
+        <item>4:29am</item>
+        <item>4:29am</item>
+        <item>4:29am</item>
+        <item>4:29am</item>
+        <item>4:29am</item>
+        <item>4:29am</item>
+        <item>4:29am</item>
+        <item>4:29am</item>
+        <item>4:29am</item>
+        <item>4:29am</item>
+        <item>4:29am</item>
+        <item>4:29am</item>
+
+
+    </string-array>
+
+
+    <string-array name="iftar_time">
+
+
+        <item>6:39pm</item>
+        <item>6:39pm</item>
+        <item>6:39pm</item>
+        <item>6:40pm</item>
+        <item>6:40pm</item>
+        <item>6:40pm</item>
+        <item>6:41pm</item>
+        <item>6:41pm</item>
+        <item>6:41pm</item>
+        <item>6:41pm</item>
+        <item>6:42pm</item>
+        <item>6:42pm</item>
+        <item>6:42pm</item>
+        <item>6:43pm</item>
+        <item>6:43pm</item>
+        <item>6:43pm</item>
+        <item>6:44pm</item>
+        <item>6:44pm</item>
+        <item>6:44pm</item>
+        <item>6:44pm</item>
+        <item>6:45pm</item>
+        <item>6:45pm</item>
+        <item>6:45pm</item>
+        <item>6:46pm</item>
+        <item>6:46pm</item>
+        <item>6:46pm</item>
+        <item>6:46pm</item>
+        <item>6:47pm</item>
+        <item>6:47pm</item>
+        <item>6:47pm</item>
+    </string-array>
+
+
+    <string-array name="mark">
+
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+    </string-array>
+
+    <string name="title_activity_splash">splash</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:yourapp="http://schemas.android.com/apk/res-auto" >
+    <!-- Search, should appear as action button -->
+    <item android:id="@+id/refresh_scr"
+        android:title="refresh"
+        android:icon="@drawable/ic_twotone_refresh_24px"
+        yourapp:showAsAction="ifRoom"  />
+    <item android:id="@+id/dev_info"
+        android:title=" Developers Info"
+        android:icon="@drawable/ic_twotone_info_24px"
+        yourapp:showAsAction="ifRoom"  />
+    <item android:id="@+id/logout"
+        android:title="logout"
+        android:icon="@drawable/ic_twotone_exit_to_app_24px"
+        yourapp:showAsAction="ifRoom"  />
+    ...
+    ...
+</menu>
+
